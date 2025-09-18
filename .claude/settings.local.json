@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openssl rand:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
